@@ -1,0 +1,22 @@
+body{
+    background-color: cornflowerblue;
+    
+}
+.container{
+    background-color: white;
+    height: 640px;
+    width: 950px;
+    margin-top: 20px;
+    padding: 30px;
+    text-align: center;
+    border-radius: 15px;
+}
+
+.print{
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    margin-bottom: 5px;
+    border-radius: 8px;
+}
